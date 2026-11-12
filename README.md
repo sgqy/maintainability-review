@@ -9,9 +9,7 @@ Review code for human handoff: trace features, clarify state ownership and refac
 Run in your project root / 在项目根目录运行：
 
 ```sh
-git clone https://github.com/sgqy/maintainability-review.git .agents/skills/maintainability-review
+npx skills add sgqy/maintainability-review
 ```
-
-Invoke with `$maintainability-review` / 使用 `$maintainability-review` 调用。
 
 [MIT License](LICENSE)
